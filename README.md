@@ -1,6 +1,8 @@
 # Colormaps
 
 A collection of custom colormaps for use in Python. Built using the viscm tool.
+* These are set up to end on white, which is nice for data that should blend into the backgound, like a jet.
+* There is a version of the "jet" colormap that varies from red to blue then white, as well as variations on viridis and inferno.
 * See file cm_tester.ipynb for demos.
 
 ## run: 
