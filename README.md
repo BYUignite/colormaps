@@ -1,6 +1,7 @@
 # Colormaps
 
 A collection of custom colormaps for use in Python. Built using the viscm tool.
+* See file cm_tester.ipynb for demos.
 
 ## run: 
 * `python3 -m viscm edit cm.jscm`
