@@ -1,0 +1,50 @@
+{
+    "content-type": "application/vnd.matplotlib.colormap-v1+json",
+    "name": "new cm",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "usage-hints": [
+        "red-green-colorblind-safe",
+        "greyscale-safe",
+        "sequential"
+    ],
+    "colorspace": "sRGB",
+    "domain": "continuous",
+    "colors": "42005143025343035543045644065844085a440a5b440c5d450d5e450f60451161451363451464451665451767451968451b69451c6a451e6b451f6c45216e45226f452470452570442771442872442a73442b74432d75432e75432f76433177423277423478413578413679413879403979403a7a403c7a3f3d7b3f3e7b3e407b3e417b3d427c3d447c3d457c3c467c3c477c3c487c3b4a7d3b4b7d3a4c7d3a4d7d3a4e7d39507d39517d39527d39537d38547d38557d38567d38577d37587d375a7d375b7d375c7d375d7d375e7d365f7d36607d36617d36627d36637d36647d36657d36667d36677d36687d36697d366a7d356b7d356c7d356d7d356e7d356f7d35707d35717d35727d35737d35747d35757d35767d35777c35787c35797c357a7c357b7c357c7c357d7c357e7c347f7b34807b34817b34827b34837b34847a34857a34867a348779348879348979348a78348b78348c78348e77348f77349076349176349275349375359474359574359673359772369872369971379a70379b70379c6f389d6e399e6d399f6d3aa06c3ba16b3ba26a3ca3693da4683ea4673fa56640a66541a76442a86344a96145aa6046ab5f48ac5e49ad5d4aae5b4caf5a4db0594fb05751b15652b25454b35356b45158b54f5ab64e5cb64c5eb74a60b84962b94764ba4566ba4368bb416bbc3f6dbc3d6fbd3b72be3974be3677bf3479c0327cc02f7fc12d82c12a84c22887c2258ac3238dc32190c41f93c41e96c51d99c51d9cc51e9fc620a2c624a4c627a6c72ba8c72faac834acc938adc93cafca40b0cb44b1cb48b2cc4cb3cd50b4ce53b6ce57b7cf5bb7d05eb8d162b9d265bad269bbd36cbcd470bdd573bed676bfd77ac0d87dc1d880c2d983c2da87c3db8ac4dc8dc5dd90c6dd93c7de96c8df99c9e09ccae19fcbe2a2cce3a5cde3a8cee4abcfe5aed0e6b1d1e7b4d2e8b7d4e8b9d5e9bcd6eabfd7ebc2d8ecc5daecc7dbedcadceecddeefcfdff0d2e0f0d4e2f1d7e3f2d9e5f3dce6f4dee8f4e0e9f5e3ebf6e5ecf7e7eef7e9f0f8ecf1f9eef3faf0f5faf2f7fbf3f9fcf5fafcf7",
+    "extensions": {
+        "https://matplotlib.org/viscm": {
+            "min_Jp": 18,
+            "max_Jp": 99,
+            "xp": [
+                18.139510286107157,
+                8.977206621185701,
+                -11.485271563805577,
+                -37.75054206991378,
+                -27.672008038500167,
+                -20.250904041641576,
+                -16.33029634744898,
+                -12.73640596110576,
+                -8.815798266913163,
+                -12.73640596110576,
+                -2.6081694177748886
+            ],
+            "yp": [
+                -16.08202443280977,
+                -26.465968586387433,
+                -33.79581151832459,
+                -4.47643979057591,
+                34.00523560209424,
+                32.50020419831742,
+                32.8269215061668,
+                32.50020419831742,
+                32.17348689046804,
+                7.669688801764266,
+                1.135342644776614
+            ],
+            "fixed": -1,
+            "filter_k": 100,
+            "cmtype": "linear",
+            "uniform_colorspace": "CAM02-UCS",
+            "spline_method": "Bezier"
+        }
+    }
+}
