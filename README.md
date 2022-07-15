@@ -2,7 +2,7 @@
 
 <img src=cm.png width=300>
 
-A collection of custom colormaps for use in Python. Built using the viscm tool.
+A collection of custom colormaps for use in Python. Built using the viscm tool. These are also ported for use in StarCCM+.
 * These are set up to end on white, which is nice for data that should blend into the backgound, like a jet.
 * There is a version of the "jet" colormap that varies from red to blue then white, as well as variations on viridis and inferno.
 * See file cm_tester.ipynb for demos.
@@ -25,3 +25,5 @@ then, in ```*cm.py``` file, manually extrapolated last couple points and forcing
 For viridis and inferno, started with the python files for these. 
 Then, multiply the x,y points by 0.8 to get them to live in the "valid" region in viscm.
 
+## Note
+* In the images shown, the colormaps are reversed since the low values are in the jet and the high values are in the surroundings.
