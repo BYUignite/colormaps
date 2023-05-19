@@ -1,6 +1,8 @@
 # Colormaps
 
-<img src=cm.png width=300>
+<img src="cm.png" width=300>
+
+<img src="mona_compare.png" width=600>
 
 A collection of custom colormaps for use in Python. Built using the viscm tool. These are also ported for use in StarCCM+.
 * These are set up to end on white, which is nice for data that should blend into the backgound, like a jet.
@@ -27,3 +29,4 @@ Then, multiply the x,y points by 0.8 to get them to live in the "valid" region i
 
 ## Note
 * In the images shown, the colormaps are reversed since the low values are in the jet and the high values are in the surroundings.
+
